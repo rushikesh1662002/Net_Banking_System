@@ -42,13 +42,9 @@ https://youtu.be/9OP36wzL4tE
 Install project with git
 
 ```bash
-  git clone https://github.com/DigambarBC/NetBanking-System-in-PHP.git
+  git clone https://github.com/rushikesh1662002/Net_Banking_System
   cd NetBanking-System-in-PHP
-```
-## Contact Details  
-
-If you want to setup this project contact me on telegram  
-Telegram id: @DigambarBC  
+``
 
 
   🎉 Then Enjoy Project 😉  
